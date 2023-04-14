@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/Wildlife" mode="merge"/>
+    <filter root="/content/Wildlife" mode="merge"/>
+    <filter root="/content/dam/Wildlife" mode="merge"/>
+    <filter root="/content/experience-fragments/Wildlife" mode="merge"/>
+</workspaceFilter>
